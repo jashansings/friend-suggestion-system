@@ -85,7 +85,7 @@ Backend runs on: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## 👨‍💻 Developer Info
 
-- **Name:** Jashan Singh  
+- **Name:** Jashanpreet Singh  
 - **Institute:** IIT Bombay  
 - **Program:** Seasons of Code 2025  
 - **Mentor:** Mradul Sonkar  
