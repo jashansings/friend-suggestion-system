@@ -75,11 +75,11 @@ Backend runs on: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## 🧠 Features Completed (Week 5–6)
 
-- [ ] Graph-based friend suggestion logic
-- [ ] Mutual friends via BFS/DFS
-- [ ] Recommendation API
-- [ ] Suggested friends UI section
-- [ ] Visual representation of friend connections
+- [x] Graph-based friend suggestion logic
+- [x] Mutual friends via BFS/DFS
+- [x] Recommendation API
+- [x] Suggested friends UI section
+- [x] Visual representation of friend connections
 
 ---
 
